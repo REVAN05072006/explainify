@@ -1,4 +1,4 @@
-#Explainify – AI-Powered Topic Explainer
+# Explainify – AI-Powered Topic Explainer
 
 Explainify is a simple Flask-based AI app that generates full educational content using the DeepSeek Chat API. Enter any topic and instantly get a complete lesson, flashcards, quiz questions, and a test.
 
